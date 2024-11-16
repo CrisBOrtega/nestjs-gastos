@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "bootcamp_app_request",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
